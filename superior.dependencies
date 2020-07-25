@@ -1,6 +1,38 @@
 [
   {
-    "repository": "android_device_samsung_hlte-common",
-    "target_path": "device/samsung/hlte-common"
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/device_samsung_hlte-common",
+    "target_path": "device/samsung/hlte-common",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/android_kernel_samsung_msm8974",
+    "target_path": "kernel/samsung/msm8974",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/proprietary_vendor_hltexx",
+    "target_path": "vendor/samsung",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "ten"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SuperiorOS-Devices/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "ten"
   }
 ]
